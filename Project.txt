@@ -1,0 +1,12 @@
+Project to do word analysis on collections of text files
+Using ~500 transcripts from Security Now! podcast from GRC.com
+File Basics
+  Create file list from a directory
+  Create file list form a filespec or URL facilitating patterns of #'s of lenght n or alpha sequence of lenght n
+  Read data and ouput basic information
+    Three and Four Letter Acronyms and counts
+    Word Pairs and freqency counts
+    Triplets and frequency counts
+    Create data structure of above based on Monthly, Quarterly, Annual totals
+    Allow User input of acronym
+    
